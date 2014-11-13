@@ -1,0 +1,12 @@
+[Applet Factory]
+Id=GnoMenuAppletFactory
+InProcess=false
+Location=/usr/lib/gnomenu/GnoMenu.py
+Name=GnoMenu Applet Factory
+Description=A MATE Python GnoMenu Applet Factory
+ 
+[GnoMenuApplet]
+Name=GnoMenu
+Description=A MATE Python GnoMenu Applet
+Icon=mate
+MateComponentId=OAFIID:MATE_GnoMenuApplet;
